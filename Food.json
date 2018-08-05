@@ -2,27 +2,23 @@
   
   "Appetizers": [
     {
-      "photo": "Restaurant photo",
+      "photo": "Restaurant Photo",
       "name": "Veg Pakora",
-      "description": "Restaurant description",
       "price": "Rs.80",
     },
     {
       "photo": "Restaurant photo",
       "name": "Paneer Pakora",
-      "description": "Restaurant description",
       "price":"Rs.150",
     },
 	{
       "photo": "Restaurant photo",
       "name": "Chole Bhature",
-      "description": "Restaurant description",
       "price":"Rs.140" ,
     },
 	{
       "photo": "Restaurant photo",
       "name": "Aloo Kebab",
-      "description": "Restaurant description",
       "price":"Rs.120" ,
     },
 	{
@@ -31,185 +27,287 @@
       "description": "Restaurant description",
       "price": "Rs.95" ,
     },
+	  {
+      "photo": "Restaurant photo",
+      "name": "Masala Papad",
+      "price": "Rs.60",
+    },
   ]
   "Soups": [
    {
       "photo": "Restaurant photo",
       "name": "Veg.Clear Soup",
-      "description": "Restaurant description",
       "price":"Rs.150" ,
     },
 	{
       "photo": "Restaurant photo",
       "name": "Veg Hot and Sour Soup",
-      "description": "Restaurant description",
       "price": "Rs.150",
     },
 	{
       "photo": "Restaurant photo",
       "name": "Veg Manchow Soup",
-      "description": "Restaurant description",
       "price": "Rs.170",
     },
+{
+      "photo": "Restaurant photo",
+      "name": "SweetCorn Soup",
+      "price": "Rs.140",
+    },
+{
+      "photo": "Restaurant photo",
+      "name": "Cream of Mushroom Soup",
+      "price": "Rs.",
+    },
   ]
+
+"Salads":[
+{
+      "photo": "Restaurant photo",
+      "name": "Green Salad",
+      "price": "Rs.175",
+    },
+{
+      "photo": "Restaurant photo",
+      "name": "Meditarranean Chickpeas Salad",
+      "price": "Rs.200",
+    },
+{
+      "photo": "Restaurant photo",
+      "name": "Veg. Pasta Salad",
+      "price": "Rs.250",
+    },
+{
+      "photo": "Restaurant photo",
+      "name": "Wanton Salad",
+      "price": "Rs.350",
+    },
+{
+      "photo": "Restaurant photo",
+      "name": "Kimchi salad",
+      "price": "Rs.300",
+    },
+]
   "Starters": [
     {
-      "name": "Item name 1",
       "photo": "Restaurant photo",
-      "description": "Restaurant description",
-      "price": 10,
+      "name": "Pav Bhaji Fondue",
+      "price": "Rs.400",
     },
-    {
-      "name": "Item name 2",
+	  {
       "photo": "Restaurant photo",
-      "description": "Restaurant description",
-      "price": 20,
+      "name": "3 Cheese Fondue",
+      "price": "Rs.495",
     },
-    {
-      "name": "Item name 3",
+	  {
       "photo": "Restaurant photo",
-      "description": "Restaurant description",
-      "price": 20,
-    }
+      "name": "Hara Bhara Kabab",
+      "price": "Rs.175",
+    },
+	  {
+      "photo": "Restaurant photo",
+      "name": "Veg.Crispy",
+      "price": "Rs.200",
+    },
+	  {
+      "photo": "Restaurant photo",
+      "name": "Paneer Crispy",
+      "price": "Rs.250",
+    },
   ]
-  "Vegetable Main Course": [
-    {
-      "name": "Item name 1",
+ "Veg Main Course" : [
+	 {
       "photo": "Restaurant photo",
-      "description": "Restaurant description",
-      "price": 10,
+      "name": "Veh.Handi",
+      "price": "Rs.180",
     },
-    {
-      "name": "Item name 2",
+ {
       "photo": "Restaurant photo",
-      "description": "Restaurant description",
-      "price": 20,
+      "name": "Veg.Amritsari",
+      "price": "Rs.200",
     },
-    {
-      "name": "Item name 3",
+ {
       "photo": "Restaurant photo",
-      "description": "Restaurant description",
-      "price": 20,
-    }
-  ]
+      "name": "Veg.Hyderabadi",
+      "price": "Rs.200",
+    },
+ {
+      "photo": "Restaurant photo",
+      "name": "Veg.Makhanwala",
+      "price": "Rs.210",
+    },
+	 {
+      "photo": "Restaurant photo",
+      "name": "Dal Tadka",
+      "price": "Rs.150",
+    },
+ ]
   "Paneer Main Course": [
     {
-      "name": "Item name 1",
       "photo": "Restaurant photo",
-      "description": "Restaurant description",
-      "price": 10,
+      "name": "Paneer Handi",
+      "price": "Rs.250",
     },
-    {
-      "name": "Item name 2",
+	  {
       "photo": "Restaurant photo",
-      "description": "Restaurant description",
-      "price": 20,
+      "name": "Paneer Kadai",
+      "price": "Rs.250",
     },
-    {
-      "name": "Item name 3",
+	  {
       "photo": "Restaurant photo",
-      "description": "Restaurant description",
-      "price": 20,
-    }
+      "name": " Paneer Butter Masala",
+      "price": "Rs.270",
+    },
+	  {
+      "photo": "Restaurant photo",
+      "name": " Paneer Amritsari",
+      "price": "Rs.300",
+    },
+	  {
+      "photo": "Restaurant photo",
+      "name": "Paneer Tikka Masala",
+      "price": "Rs.270",
+    },
+	  
   ]
   "Rice": [
     {
-      "name": "Item name 1",
       "photo": "Restaurant photo",
-      "description": "Restaurant description",
-      "price": 10,
+      "name": "Veg.Biryani",
+      "price": "Rs.200",
     },
-    {
-      "name": "Item name 2",
+	  {
       "photo": "Restaurant photo",
-      "description": "Restaurant description",
-      "price": 20,
+      "name": "Paneer Biryani",
+      "price": "Rs.280",
     },
-    {
-      "name": "Item name 3",
+	  {
       "photo": "Restaurant photo",
-      "description": "Restaurant description",
-      "price": 20,
-    }
+      "name": "Steam Rice",
+      "price": "Rs.120",
+    },
+	  {
+      "photo": "Restaurant photo",
+      "name": "Jeera Rice",
+      "price": "Rs.160",
+    },
+	  {
+      "photo": "Restaurant photo",
+      "name": "Hyderabadi Dum Biryani",
+      "price": "Rs.250",
+    },
+	  {
+      "photo": "Restaurant photo",
+      "name": "Veg.Pulao",
+      "price": "Rs.170",
+    },{
+      "photo": "Restaurant photo",
+      "name": "Curd Rice",
+      "price": "Rs.130",
+    },
   ]
   "Indian Bread - Parathas": [
     {
-      "name": "Item name 1",
       "photo": "Restaurant photo",
-      "description": "Restaurant description",
-      "price": 10,
+      "name": "Tandoori roti",
+      "price": "Rs.30",
     },
-    {
-      "name": "Item name 2",
+	  {
       "photo": "Restaurant photo",
-      "description": "Restaurant description",
-      "price": 20,
+      "name": "Kulcha",
+      "price": "Rs.40",
     },
-    {
-      "name": "Item name 3",
+	  {
       "photo": "Restaurant photo",
-      "description": "Restaurant description",
-      "price": 20,
-    }
+      "name": "Paneer Kulcha",
+      "price": "Rs.90",
+    },
+	  {
+      "photo": "Restaurant photo",
+      "name": "Naan",
+      "price": "Rs.30",
+    },
+	  {
+      "photo": "Restaurant photo",
+      "name": "Butter Naan",
+      "price": "Rs.60",
+    },
   ]
   "Noodles": [
     {
-      "name": "Item name 1",
       "photo": "Restaurant photo",
-      "description": "Restaurant description",
-      "price": 10,
+      "name": "Hakka Noodles",
+      "price": "Rs.160",
     },
-    {
-      "name": "Item name 2",
+	  {
       "photo": "Restaurant photo",
-      "description": "Restaurant description",
-      "price": 20,
+      "name": "Schezwan Noodles",
+      "price": "Rs.180",
     },
-    {
-      "name": "Item name 3",
+	  {
       "photo": "Restaurant photo",
-      "description": "Restaurant description",
-      "price": 20,
-    }
+      "name": "Singapore Noodles",
+      "price": "Rs.170",
+    },
+	  {
+      "photo": "Restaurant photo",
+      "name": "Hong Kong Noodles",
+      "price": "Rs.170",
+    },
+	  {
+      "photo": "Restaurant photo",
+      "name": "Thai Noodles",
+      "price": "Rs.180",
+    },
+	  
   ]
   "Beverages": [
     {
-      "name": "Item name 1",
       "photo": "Restaurant photo",
-      "description": "Restaurant description",
-      "price": 10,
+      "name": "Vanilla Milkshake",
+      "price": "Rs.90",
     },
-    {
-      "name": "Item name 2",
+	  {
       "photo": "Restaurant photo",
-      "description": "Restaurant description",
-      "price": 20,
+      "name": "Chocolate Milkshake",
+      "price": "Rs.100",
     },
-    {
-      "name": "Item name 3",
+	  {
       "photo": "Restaurant photo",
-      "description": "Restaurant description",
-      "price": 20,
-    }
+      "name": "Strawberry Milkshake",
+      "price": "Rs.120",
+    },
+	  {
+      "photo": "Restaurant photo",
+      "name": "Virgin Mojito",
+      "price": "Rs.160",
+    },
+	  {
+      "photo": "Restaurant photo",
+      "name": "Blue Bay driver",
+      "price": "Rs.160",
+    },
   ]
-  "Dessert": [
-    {
-      "name": "Item name 1",
+  "Desserts": [
+   {
       "photo": "Restaurant photo",
-      "description": "Restaurant description",
-      "price": 10,
+      "name": "GulabJamun",
+      "price": "Rs.60",
     },
-    {
-      "name": "Item name 2",
+	  {
       "photo": "Restaurant photo",
-      "description": "Restaurant description",
-      "price": 20,
+      "name": "Chocolate Fondant",
+      "price": "Rs.295,
     },
-    {
-      "name": "Item name 3",
+	  {
       "photo": "Restaurant photo",
-      "description": "Restaurant description",
-      "price": 20,
-    }
+      "name": "Sizzling Chocolate Brownie",
+      "price": "Rs.200",
+    },
+	  {
+      "photo": "Restaurant photo",
+      "name": "Kesar Pista kulfi",
+      "price": "Rs.200",
+    },
   ]
 }
